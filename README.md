@@ -60,4 +60,4 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 ---
 
-⌨️ com 💜 por Mariana Sobrinho
+feito com 💜 por Mariana Sobrinho
