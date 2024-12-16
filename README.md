@@ -51,9 +51,9 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
         href="https://www.linkedin.com/in/mariana-sobrinho-a6623b105/">
         LinkedIn
     </a>
-    &nbsp;|&nbsp;
+ 
   
-    &nbsp;|&nbsp;</p>
+   </p>
 </p>
 <br/><br/>
 <p>
